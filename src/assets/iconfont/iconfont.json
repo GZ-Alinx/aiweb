@@ -1,0 +1,23 @@
+{
+  "id": "4617122",
+  "name": "aiweb",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "40996831",
+      "name": "果树",
+      "font_class": "a-guoshushu",
+      "unicode": "e952",
+      "unicode_decimal": 59730
+    },
+    {
+      "icon_id": "18267916",
+      "name": "服务器",
+      "font_class": "fuwuqi",
+      "unicode": "e98e",
+      "unicode_decimal": 59790
+    }
+  ]
+}
